@@ -1,18 +1,19 @@
 {
-	"name": "vscode-dev-containers",
+	"name": "mosgarage-dev-containers",
 	"version": "0.245.2",
-	"description": "VS Code Dev Containers: Definitions and Templates",
+	"description": "Mosgarage-Containers:",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-dev-containers.git"
+		"url": "https://github.com/officialmofabs/mosgarage-dev-containers.git"
 	},
-	"author": "Microsoft Corporation",
+	"author": "Moses Fabiyi,
 	"license": "SEE LICENSE IN LICENSE.md",
 	"files": [
 		"containers",
 		"containers-readmes",
 		"repository-containers",
 		"manifests",
+		"repository-tools"
 		"container-features",
 		"devcontainer-collection.json"
 	],
