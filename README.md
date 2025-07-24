@@ -1,1 +1,1 @@
-# mosgarage-dev-containers
+# dev-containers
